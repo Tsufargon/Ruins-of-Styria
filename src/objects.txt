@@ -1,0 +1,18 @@
+00 - HP Potion
+01 - At Potion
+02 - Def Potion
+03 - Spe Potion
+04 - Lu Potion
+
+--
+
+10 - Golden Necklace
+11 - Longsword
+12 - Sturdy Armour
+13 - Light Boots
+14 - Silver Ring
+
+--
+
+90 - DEBUG RESET
+91 - DEBUG MAX
